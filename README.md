@@ -13,11 +13,14 @@ Most of what I build starts the same way: I hit a problem in my own life and, in
 
 ### A bit more
 
+By day, I run e-commerce operations for a furniture retailer (pricing, inventory, the whole Shopify storefront) while finishing a B.S. in Management Information Systems at San Jose State. The product itch actually came from a side project: a technology modernization audit I led for a Bay Area nonprofit, benchmarking competitors, prototyping in Figma, and presenting to their executive team. That's the work that made me want to do product full time.
+
 I like small, focused products that do one thing really well. I've shipped solo, end to end, so I've done the design, the engineering, and the hard part in the middle: deciding what to cut.
 
 When I'm not building, I'm usually playing Final Fantasy XIV with my partner. Housing History actually came out of that. She wanted a way to undo decorating mistakes, so I made one.
 
 I'm currently open to product manager roles.
 
-- Portfolio: https://greenteakitkats.github.io
+- Portfolio: https://ryantdo.com
+- LinkedIn: https://linkedin.com/in/ryantdo
 - Email: ryantoando@gmail.com
