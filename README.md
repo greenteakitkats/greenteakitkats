@@ -1,11 +1,9 @@
 # Hi, I'm Ryan 👋
 
-I'm in the San Francisco Bay Area and moving into product.
+I like building small tools for problems I keep running into.
 
-I’m more product-minded than engineering-first, but I like building small tools around friction I notice in my own life. Most of my projects start the same way: I run into something annoying, wonder why it still feels harder than it needs to be, and try to build the smallest useful version that makes it easier.
+Most of my projects start with a little moment of friction. Something feels more annoying than it should, I keep thinking about it, and eventually I try to make a small version that helps.
 
-By day, I work on e-commerce operations for a furniture retailer, managing product data, pricing, inventory, SEO, and a large Shopify storefront.
+I’m drawn to tools that feel useful, calm, and easy to understand. The kind that fit into how people already behave instead of making the solution feel heavier than the problem.
 
-The pull toward product got stronger after a nonprofit website modernization project I led, where my team audited live sites, benchmarked peer organizations, prototyped in Figma, and presented recommendations to leadership. That work made me realize I like the messy middle of product: understanding the problem, deciding what matters, cutting scope, explaining tradeoffs, and turning ambiguity into something useful.
-
-I'm currently open to product, product analyst, business analyst, product operations, and strategy roles.
+I like the messy middle of product: figuring out what the real problem is, deciding what matters most, cutting what does not, and making the first version simple enough to use.
